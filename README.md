@@ -5,7 +5,8 @@ DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=news_portal
 DB_USERNAME=your_username
-DB_PASSWORD=your_password```
+DB_PASSWORD=your_password
+```
 
 2. ```php artisan key:generate```
 
@@ -23,4 +24,5 @@ LOGIN: admin@example.com => administrator
 PWD: password
 
 LOGIN: uthor@example.com => simple user
-PWD: password```
+PWD: password
+```
