@@ -16,3 +16,11 @@ DB_PASSWORD=your_password```
 5. start server => ```php artisan serve```
 
 Test runs after ```php artisan test``` command
+
+credentials:
+```
+LOGIN: admin@example.com => administrator
+PWD: password
+
+LOGIN: uthor@example.com => simple user
+PWD: password```
